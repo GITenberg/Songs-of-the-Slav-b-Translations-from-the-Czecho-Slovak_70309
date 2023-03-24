@@ -5,6 +5,9 @@ contributor:
     agent_name: Kotouč, Otto
     gutenberg_agent_id: '55696'
     url: http://www.gutenberg.org/2009/agents/55696
+covers:
+- cover_type: archival
+  image_path: 70309-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bezruč, Petr
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '55697'
     url: http://www.gutenberg.org/2009/agents/55697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70309#Songs-of-the-Slav-b-Translations-from-the-Czecho-Slovak
 gutenberg_issued: '2023-03-17'
 identifiers:
   gutenberg: '70309'
